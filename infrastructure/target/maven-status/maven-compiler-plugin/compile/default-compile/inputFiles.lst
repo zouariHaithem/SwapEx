@@ -1,0 +1,13 @@
+/Users/haithem/Documents/workspace/SwapEx/infrastructure/src/main/java/org/swap/ex/adapters/TradeAdapter.java
+/Users/haithem/Documents/workspace/SwapEx/infrastructure/src/main/java/org/swap/ex/repository/ItemRepository.java
+/Users/haithem/Documents/workspace/SwapEx/infrastructure/src/main/java/org/swap/ex/adapters/ItemAdapter.java
+/Users/haithem/Documents/workspace/SwapEx/infrastructure/src/main/java/org/swap/ex/entity/TradeStatutEntity.java
+/Users/haithem/Documents/workspace/SwapEx/infrastructure/src/main/java/org/swap/ex/mapper/UserMapper.java
+/Users/haithem/Documents/workspace/SwapEx/infrastructure/src/main/java/org/swap/ex/entity/ItemEntity.java
+/Users/haithem/Documents/workspace/SwapEx/infrastructure/src/main/java/org/swap/ex/mapper/TradeMapper.java
+/Users/haithem/Documents/workspace/SwapEx/infrastructure/src/main/java/org/swap/ex/adapters/UserAdapter.java
+/Users/haithem/Documents/workspace/SwapEx/infrastructure/src/main/java/org/swap/ex/repository/TradeRepository.java
+/Users/haithem/Documents/workspace/SwapEx/infrastructure/src/main/java/org/swap/ex/entity/UserEntity.java
+/Users/haithem/Documents/workspace/SwapEx/infrastructure/src/main/java/org/swap/ex/mapper/ItemMapper.java
+/Users/haithem/Documents/workspace/SwapEx/infrastructure/src/main/java/org/swap/ex/repository/UserRepository.java
+/Users/haithem/Documents/workspace/SwapEx/infrastructure/src/main/java/org/swap/ex/entity/TradeEntity.java

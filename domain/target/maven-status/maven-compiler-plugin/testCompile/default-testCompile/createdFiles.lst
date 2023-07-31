@@ -1,0 +1,5 @@
+org/swap/ex/service/UserItemServiceImplTest.class
+org/swap/ex/service/ItemServiceImplTest.class
+org/swap/ex/service/UserTradeServiceImplTest.class
+org/swap/ex/service/TradeServiceImplTest.class
+org/swap/ex/service/UserServiceImplTest.class
